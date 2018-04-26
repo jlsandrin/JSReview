@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
   s.name         = "JSReview"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "JSReview is simple solution for asking users to review your app."
 
   # This description is used to generate tags and improve search results.
